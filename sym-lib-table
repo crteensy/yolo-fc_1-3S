@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name lib_ultimateFC)(type Legacy)(uri ${KIPRJMOD}/lib_ultimateFC.lib)(options "")(descr ""))
+  (lib (name ultimateFC-rescue)(type Legacy)(uri ${KIPRJMOD}/ultimateFC-rescue.lib)(options "")(descr ""))
+)
