@@ -57,12 +57,15 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R47","10k","R_0402_1005Metric",10.650000,-15.050000,0.000000,bottom
 "R48","1k","R_0201_0603Metric_mod",11.850000,-15.405000,270.000000,bottom
 "R58","1k","R_0201_0603Metric_mod",17.450000,-8.690000,270.000000,bottom
+"REF**","Fiducial_0.5mm_Dia_1mm_Outer","Fiducial_0.5mm_Dia_1mm_Outer",-2.625000,-19.200000,-0.000000,bottom
+"REF**","Fiducial_0.5mm_Dia_1mm_Outer","Fiducial_0.5mm_Dia_1mm_Outer",24.650000,-2.175000,-0.000000,bottom
 "RN1","15k","R_Array_Convex_4x0402",12.730000,0.370000,90.000000,bottom
 "RN5","2k2","EXB18V_0201x4",10.730000,-0.500000,90.000000,bottom
 "RN14","2k2","EXB18V_0201x4",15.070000,-4.260000,270.000000,bottom
 "RN16","15k","R_Array_Convex_4x0402",7.270000,-20.370000,270.000000,bottom
 "RN18","2k2","EXB18V_0201x4",9.270000,-19.500000,270.000000,bottom
 "RN20","2k2","EXB18V_0201x4",4.930000,-15.740000,90.000000,bottom
+"TP23","bridge","solderbridge_tiny",-3.000000,-1.550000,180.000000,bottom
 "U1","EFM8BB21F16G-C-QFN20R","SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm",12.280000,-3.050000,270.000000,bottom
 "U5","TPS630701","TEXAS_15-VQFN-HR",2.955000,-9.620000,90.000000,bottom
 "U7","NCP81253MNTBG","DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.3mm",6.170000,-3.650000,90.000000,bottom
