@@ -1,5 +1,5 @@
 # Yolo FC, STM32F7, 1-3S
-This FC has been test flown with a 3" quad, and it flew well.
+This FC has been test flown with a 3" toothpick, and it flew well.
 
 - Main MCU: STM32F745
 - IMU: ICM-20602
