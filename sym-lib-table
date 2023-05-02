@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name lib_ultimateFC)(type Legacy)(uri ${KIPRJMOD}/lib_ultimateFC.lib)(options "")(descr ""))
-  (lib (name ultimateFC-rescue)(type Legacy)(uri ${KIPRJMOD}/ultimateFC-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "lib_ultimateFC")(type "Legacy")(uri "${KIPRJMOD}/lib_ultimateFC.lib")(options "")(descr ""))
+  (lib (name "ultimateFC-rescue")(type "KiCad")(uri "${KIPRJMOD}/ultimateFC-rescue.kicad_sym")(options "")(descr ""))
 )
